@@ -1,0 +1,43 @@
+header {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 80px;
+    background-image: url(images/pattern_1.jpeg);
+    font-weight: bold;
+    color: khaki;
+    width: 100%;
+    margin: 0px auto;
+}
+
+header h1 {
+   text-align: center;
+}
+
+
+section {
+    width: 100%;
+    margin: 0px auto;
+}
+
+span {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    color: blue;  
+}
+.art-name {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+}
+
+#art-section-1 {
+    background-color: mediumspringgreen;
+    
+}
+#art-section-2 {
+    background-color: lightcoral; 
+}
+
+#art-section-3 {
+    background-color: skyblue; 
+}
